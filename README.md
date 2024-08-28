@@ -1,7 +1,5 @@
 <h1 align="center">Hello! I'm Sibren 👋</h1>
 
-- 🔭 I'm currently working on a free api service and a mobile/web-app which will both be revealed soon.
-
 - 🌐 View my portfolio at [nerbis.nl](https://nerbis.nl/)
 
 - 📫 Email me at **sibren@nerbis.nl**
